@@ -2,6 +2,8 @@
     "name": "com.nfynt.nplugin",
     "version": "1.0.0",
     "displayName": "NPlugin",
-    "description": "A Nfynt.NPlugin for Unity"
+    "description": "a NPlugin of nfynt",
+    "unity": "2019.1",
+    "unityRelease": "0b5"
 }
   
